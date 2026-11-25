@@ -6,7 +6,8 @@ Some original bytes survived in a workspace cache. Other files were recovered fr
 
 ## Files and source records
 
-Original bytes are in [files/](files/). Each index row records the original public URL and a repository path when a verified copy is available here.
+Recovered files are in the repository's existing product folders. Each index row gives the original public URL and a path relative to the repository root when a verified copy is available here.
+When different files shared a destination, the recovered filename includes its source host. The index points to the exact filename.
 An empty repository path means this is a source reference. It may point to an unavailable URL, an opaque installer or a file over GitHub's size limit. The listed status is a historical discovery record, independent of present-day availability.
 A repeated URL alias can point to the same file. Manifests can still reference MPQ files or media hosted by Blizzard.
 

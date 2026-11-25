@@ -1,6 +1,6 @@
 original_url	status	size_bytes	md5	sha256	repository_path
 http://ftp.blizzard.com/pub/starcraftII/patches/pc/SC2-1.2.0-zhTW-patch.exe	listed				
-http://ftp.blizzard.com/pub/unsupped/README.txt	recovered_official	57	9b0a05a320e59f668eefb78484fb0604	781418bba068c58134166f83648cea88be50283eecbc71b5d87f3837617e102b	recovered/files/download.blizzard.com/pub/unsupped/README.txt
+http://ftp.blizzard.com/pub/unsupped/README.txt	recovered_official	57	9b0a05a320e59f668eefb78484fb0604	781418bba068c58134166f83648cea88be50283eecbc71b5d87f3837617e102b	tools-pod/pub/unsupped/README.txt
 http://ftp.blizzard.com/pub/unsupped/greetbot.zip	listed				
 http://ftp.blizzard.com/pub/unsupped/kpuds.zip	listed				
 http://ftp.blizzard.com/pub/unsupped/topazchat-621.zip	listed				
@@ -236,6 +236,6 @@ http://ftp.blizzard.com/pub/war2/puds/impossib.pud	listed
 http://ftp.blizzard.com/pub/war2/puds/kabuchee.pud	listed				
 http://ftp.blizzard.com/pub/war2/puds/oneruler.pud	listed				
 http://ftp.blizzard.com/pub/war2/puds/opco.pud	listed				
-http://ftp.blizzard.com/pub/war2/puds/readme.txt	recovered_official	375	2b5450e048813a8c4f8afdf5208a0a5f	cb1f274412b7fff9fb4eb5f6c9f249bf8e2be94485e68b5ad964f695476b99ce	recovered/files/download.blizzard.com/pub/war2/puds/readme.txt
+http://ftp.blizzard.com/pub/war2/puds/readme.txt	recovered_official	375	2b5450e048813a8c4f8afdf5208a0a5f	cb1f274412b7fff9fb4eb5f6c9f249bf8e2be94485e68b5ad964f695476b99ce	tools-pod/pub/war2/puds/readme.txt
 http://ftp.blizzard.com/pub/war2/puds/stonewll.pud	listed				
 http://ftp.blizzard.com/pub/war2/puds/test.pud	listed				

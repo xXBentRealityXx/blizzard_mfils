@@ -34,10 +34,10 @@ http://ftp.blizzard.com/pub/WoW/other/WoW-1.9.4.5086-to-1.10.0.5195-zhTW-patch.d
 http://ftp.blizzard.com/pub/WoW/other/WoWLicense-Disassociation.pdf	listed				
 http://ftp.blizzard.com/pub/WoW/other/WoW_Account_Recovery.pdf	listed				
 http://ftp.blizzard.com/pub/WoW/other/WoW_Account_Recovery_Notarized.pdf	listed				
-http://ftp.blizzard.com/pub/WoW/other/disableBGD.reg	recovered_official	158	91f0355bb1b2b7ad19d9ab46ff3dc95f	4643b02041d6ff27feed916d92ec23d5824d283db6c75e84d4f1ade29d334c27	recovered/files/download.blizzard.com/pub/WoW/other/disableBGD.reg
-http://ftp.blizzard.com/pub/WoW/other/disableP2P.reg	recovered_official	151	7d84bab8bb014610a3c4cf657ac8d4e3	197882605eff0fc07779dcbf544363467988652c40d30f26e3794fb870e6de9c	recovered/files/download.blizzard.com/pub/WoW/other/disableP2P.reg
-http://ftp.blizzard.com/pub/WoW/other/enableBGD.reg	recovered_official	158	169d359a020123f3fcc39eafa74fbe00	d74e3b33a7d4afbf253e093d49656b18b3cedd8e2bd0cbec3595f137baa28f1a	recovered/files/download.blizzard.com/pub/WoW/other/enableBGD.reg
-http://ftp.blizzard.com/pub/WoW/other/enableP2P.reg	recovered_official	151	c8eebf9bfaa54f2628c3f735c13ce951	eea6226988a9486c2c43b3de8796ff1be20071cb6e5584884474325b8ede9fe1	recovered/files/download.blizzard.com/pub/WoW/other/enableP2P.reg
+http://ftp.blizzard.com/pub/WoW/other/disableBGD.reg	recovered_official	158	91f0355bb1b2b7ad19d9ab46ff3dc95f	4643b02041d6ff27feed916d92ec23d5824d283db6c75e84d4f1ade29d334c27	wow-pod/pub/WoW/other/disableBGD.reg
+http://ftp.blizzard.com/pub/WoW/other/disableP2P.reg	recovered_official	151	7d84bab8bb014610a3c4cf657ac8d4e3	197882605eff0fc07779dcbf544363467988652c40d30f26e3794fb870e6de9c	wow-pod/pub/WoW/other/disableP2P.reg
+http://ftp.blizzard.com/pub/WoW/other/enableBGD.reg	recovered_official	158	169d359a020123f3fcc39eafa74fbe00	d74e3b33a7d4afbf253e093d49656b18b3cedd8e2bd0cbec3595f137baa28f1a	wow-pod/pub/WoW/other/enableBGD.reg
+http://ftp.blizzard.com/pub/WoW/other/enableP2P.reg	recovered_official	151	c8eebf9bfaa54f2628c3f735c13ce951	eea6226988a9486c2c43b3de8796ff1be20071cb6e5584884474325b8ede9fe1	wow-pod/pub/WoW/other/enableP2P.reg
 http://ftp.blizzard.com/pub/WoW/other/eula.zip	listed				
 http://ftp.blizzard.com/pub/WoW/other/fansite_kit.zip	listed	21747325	fe8b3ed60e0549fdbd2b4122e3a7ada5	654029c70ceec5495021add88325f3915c2f560c4d96b970577e161debb9a8b0	
 http://ftp.blizzard.com/pub/WoW/other/fmod.zip	listed	174126	274f4a13e47254c4d70b8ddc16b52c07	339a226e27be4629859bb089e4e0f39a5306cb08e6a697efba8ca10d483ecac0	
@@ -122,7 +122,7 @@ http://ftp.blizzard.com/pub/demos/DiabloDemoMac.sit.hqx	listed
 http://ftp.blizzard.com/pub/demos/MAC/DiabloDemoMac1.08.sit.hqx	listed				
 http://ftp.blizzard.com/pub/demos/MAC/MacWarcraftDemo.sea.hqx	listed				
 http://ftp.blizzard.com/pub/demos/PC	listed				
-http://ftp.blizzard.com/pub/demos/README.txt	recovered_official	293	fbd312e54d47d7c5dd32befc950018bb	cb9fe38b746d8bc7db4c42dacd073dc1f1f6a68d5241bf88e4b8258fddda978c	recovered/files/download.blizzard.com/pub/demos/README.txt
+http://ftp.blizzard.com/pub/demos/README.txt	recovered_official	293	fbd312e54d47d7c5dd32befc950018bb	cb9fe38b746d8bc7db4c42dacd073dc1f1f6a68d5241bf88e4b8258fddda978c	tools-pod/pub/demos/README.txt
 http://ftp.blizzard.com/pub/demos/SCDemo.exe	listed				
 http://ftp.blizzard.com/pub/demos/StarCraft_Demo.sit.hqx	listed	41488191	fcc3aadbcabfd6bde2e187429fc089af		
 http://ftp.blizzard.com/pub/demos/Starcraft_Demo.sit	listed				
@@ -133,8 +133,8 @@ http://ftp.blizzard.com/pub/demos/movies/War3_Preview.sit	listed
 http://ftp.blizzard.com/pub/demos/movies/eac	listed				
 http://ftp.blizzard.com/pub/demos/movies/necro.sit.hqx	listed				
 http://ftp.blizzard.com/pub/demos/war1demo.zip	listed				
-http://ftp.blizzard.com/pub/diablo/d109_x64.reg	recovered_official	398	9e17f66d8de7f7678a3851c3dc80a4de	8da70dd833457536c8341865835e1720cf91c35940e16f1ccb8054a177cda184	recovered/files/ftp.blizzard.com/pub/diablo/d109_x64.reg
-http://ftp.blizzard.com/pub/diablo/d109_x86.reg	recovered_official	374	5bc01a6362c0146ff03bc8ce1b271fc4	f1d8d48a73c7d94bbe589fcca23e7733ea7ea16b4aa7ea5be522f8dfd42668ca	recovered/files/ftp.blizzard.com/pub/diablo/d109_x86.reg
+http://ftp.blizzard.com/pub/diablo/d109_x64.reg	recovered_official	398	9e17f66d8de7f7678a3851c3dc80a4de	8da70dd833457536c8341865835e1720cf91c35940e16f1ccb8054a177cda184	tools-pod/pub/diablo/d109_x64.reg
+http://ftp.blizzard.com/pub/diablo/d109_x86.reg	recovered_official	374	5bc01a6362c0146ff03bc8ce1b271fc4	f1d8d48a73c7d94bbe589fcca23e7733ea7ea16b4aa7ea5be522f8dfd42668ca	tools-pod/pub/diablo/d109_x86.reg
 http://ftp.blizzard.com/pub/diablo/drtl107.exe	listed				
 http://ftp.blizzard.com/pub/diablo/patches/mac/Diablo%201.09%20Update.hqx	listed				
 http://ftp.blizzard.com/pub/diablo/patches/mac/Diablo%201.09-Mac.hqx	listed				

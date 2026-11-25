@@ -1,8 +1,8 @@
 original_url	status	size_bytes	md5	sha256	repository_path
 http://ftp.blizzard.com/pub/war2/puds/triatk.pud	listed				
 http://ftp.blizzard.com/pub/war2/puds/uprise.pud	listed				
-http://ftp.blizzard.com/pub/war2/war2BNE_x64.reg	recovered_official	418	d9d7d658c0f09a3e11804b51a7171281	a8754571f98a5ddb0fc66f84a2fe971b2aa616dadc7433eba2cc9205334caea6	recovered/files/ftp.blizzard.com/pub/war2/war2BNE_x64.reg
-http://ftp.blizzard.com/pub/war2/war2BNE_x86.reg	recovered_official	394	c248aa0f3874cf629a2e540ec7f6bb0d	e7d00c0487b9e262ac8e17c1067c5d94986da887b57172b91e4fe270a09995b3	recovered/files/ftp.blizzard.com/pub/war2/war2BNE_x86.reg
+http://ftp.blizzard.com/pub/war2/war2BNE_x64.reg	recovered_official	418	d9d7d658c0f09a3e11804b51a7171281	a8754571f98a5ddb0fc66f84a2fe971b2aa616dadc7433eba2cc9205334caea6	tools-pod/pub/war2/war2BNE_x64.reg
+http://ftp.blizzard.com/pub/war2/war2BNE_x86.reg	recovered_official	394	c248aa0f3874cf629a2e540ec7f6bb0d	e7d00c0487b9e262ac8e17c1067c5d94986da887b57172b91e4fe270a09995b3	tools-pod/pub/war2/war2BNE_x86.reg
 http://ftp.blizzard.com/pub/war3/demos/War3%20Preview%202001.bin	listed				
 http://ftp.blizzard.com/pub/war3/demos/War3%20Trailer%20E3%202000.bin	listed	18415488	8e0f9d26f99b3f337f73b01a77c4b5db		
 http://ftp.blizzard.com/pub/war3/demos/War3-Gameplay-ECTS-2001.zip	listed				
@@ -146,17 +146,17 @@ http://ftp.blizzard.com/pub/war3/maps/spotlight/Zoator%20Survivor%20TD%20Final.z
 http://ftp.blizzard.com/pub/war3/maps/war3maps050505.zip	listed				
 http://ftp.blizzard.com/pub/war3/maps/war3maps060920.zip	listed				
 http://ftp.blizzard.com/pub/war3/mp3s/Warcraft-ACallToArms.zip	listed				
-http://ftp.blizzard.com/pub/war3/other/AvanceFix.reg	recovered_official	120	4b01e05b90eede0b88e155e03f63d932	f19d7247231088923b3cb3d6ea20f03a1a5089c803877b2eb3165af5ce1b66a3	recovered/files/download.blizzard.com/pub/war3/other/AvanceFix.reg
-http://ftp.blizzard.com/pub/war3/other/Cinematics.reg	recovered_official	1306	3f4ebcb18ff0ef8f950ddd26f44771e4	9008db5c0279c280f0a2308ac461cf9ec97dac78bfeeb5ee637e05465f785ad4	recovered/files/download.blizzard.com/pub/war3/other/Cinematics.reg
-http://ftp.blizzard.com/pub/war3/other/SeenIntroMovie.reg	recovered_official	118	d49e93971a49f50ac6d5af85cb9b1219	f4574c29511015cff43f1fa439e8d13bb20c91abff5cc7d6dd033633303d52d4	recovered/files/ftp.blizzard.com/pub/war3/other/SeenIntroMovie.reg
-http://ftp.blizzard.com/pub/war3/other/SoftwareMidi.reg	recovered_official	122	0a700a3c3671b96d2b632053e665eac4	f6fee4bd521de616e39cd99fc4b4b27d2e719d9549b6f579cfac64842b9560fd	recovered/files/download.blizzard.com/pub/war3/other/SoftwareMidi.reg
+http://ftp.blizzard.com/pub/war3/other/AvanceFix.reg	recovered_official	120	4b01e05b90eede0b88e155e03f63d932	f19d7247231088923b3cb3d6ea20f03a1a5089c803877b2eb3165af5ce1b66a3	tools-pod/pub/war3/other/AvanceFix.reg
+http://ftp.blizzard.com/pub/war3/other/Cinematics.reg	recovered_official	1306	3f4ebcb18ff0ef8f950ddd26f44771e4	9008db5c0279c280f0a2308ac461cf9ec97dac78bfeeb5ee637e05465f785ad4	tools-pod/pub/war3/other/Cinematics.reg
+http://ftp.blizzard.com/pub/war3/other/SeenIntroMovie.reg	recovered_official	118	d49e93971a49f50ac6d5af85cb9b1219	f4574c29511015cff43f1fa439e8d13bb20c91abff5cc7d6dd033633303d52d4	tools-pod/pub/war3/other/SeenIntroMovie.reg
+http://ftp.blizzard.com/pub/war3/other/SoftwareMidi.reg	recovered_official	122	0a700a3c3671b96d2b632053e665eac4	f6fee4bd521de616e39cd99fc4b4b27d2e719d9549b6f579cfac64842b9560fd	tools-pod/pub/war3/other/SoftwareMidi.reg
 http://ftp.blizzard.com/pub/war3/other/VideoTest.zip	listed				
 http://ftp.blizzard.com/pub/war3/other/War3UserProp.zip	listed				
 http://ftp.blizzard.com/pub/war3/other/WarcraftIIIArtTools1.01.zip	listed				
-http://ftp.blizzard.com/pub/war3/other/refreshrate.reg	recovered_official	221	7d8fbe61aab3a2e0afdcf647249d223c	18e297c2b1d004a530285130857dfe612b26179b5903d9084993d903502ed32e	recovered/files/download.blizzard.com/pub/war3/other/refreshrate.reg
-http://ftp.blizzard.com/pub/war3/other/soundmax.reg	recovered_official	114	eabfd5875d89a6a8cecbea5c796cbe47	7cd8de9c35d8f007eb682d60092bd1f16aafcec3f4d23a70782a5b544b9892f0	recovered/files/download.blizzard.com/pub/war3/other/soundmax.reg
+http://ftp.blizzard.com/pub/war3/other/refreshrate.reg	recovered_official	221	7d8fbe61aab3a2e0afdcf647249d223c	18e297c2b1d004a530285130857dfe612b26179b5903d9084993d903502ed32e	tools-pod/pub/war3/other/refreshrate.reg
+http://ftp.blizzard.com/pub/war3/other/soundmax.reg	recovered_official	114	eabfd5875d89a6a8cecbea5c796cbe47	7cd8de9c35d8f007eb682d60092bd1f16aafcec3f4d23a70782a5b544b9892f0	tools-pod/pub/war3/other/soundmax.reg
 http://ftp.blizzard.com/pub/war3/other/war3.exe	listed				
-http://ftp.blizzard.com/pub/war3/other/war3.reg	recovered_official	1056	c2d8851ff6bb2f5edd123e6ea08b484f	2d72105541d7ff00611c72786a9efc36386ef029866f931de2b94d29534676f8	recovered/files/download.blizzard.com/pub/war3/other/war3.reg
+http://ftp.blizzard.com/pub/war3/other/war3.reg	recovered_official	1056	c2d8851ff6bb2f5edd123e6ea08b484f	2d72105541d7ff00611c72786a9efc36386ef029866f931de2b94d29534676f8	tools-pod/pub/war3/other/war3.reg
 http://ftp.blizzard.com/pub/war3/patches/MAC/War3%20Patcher%20104a_deDE.bin	listed				
 http://ftp.blizzard.com/pub/war3/patches/MAC/War3%20Patcher%20104a_enUS.bin	listed				
 http://ftp.blizzard.com/pub/war3/patches/MAC/War3%20Patcher%20104a_frFR.bin	listed				

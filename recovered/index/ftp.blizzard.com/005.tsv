@@ -84,7 +84,7 @@ http://ftp.blizzard.com/pub/diablo2/sound/d2music2.zip	listed
 http://ftp.blizzard.com/pub/diablo2/sound/d2music3.mp3	listed				
 http://ftp.blizzard.com/pub/diablo2/sound/d2music3.wav	listed				
 http://ftp.blizzard.com/pub/diablo2/sound/d2music3.zip	listed				
-http://ftp.blizzard.com/pub/diablo2exp/D2xAct5DE/Installation.txt	recovered_official	326	57800c6c2a52426bd858bc34ffe02c77	aedadc4c78de25b141881b4ef46715bac495fee4b3f79b376db88a5b58c8e247	recovered/files/ftp.blizzard.com/pub/diablo2exp/D2xAct5DE/Installation.txt
+http://ftp.blizzard.com/pub/diablo2exp/D2xAct5DE/Installation.txt	recovered_official	326	57800c6c2a52426bd858bc34ffe02c77	aedadc4c78de25b141881b4ef46715bac495fee4b3f79b376db88a5b58c8e247	tools-pod/pub/diablo2exp/D2xAct5DE/Installation.txt
 http://ftp.blizzard.com/pub/diablo2exp/movies/Thumbs.db	listed				
 http://ftp.blizzard.com/pub/diablo2exp/mp3s/The-Cain-Rap.zip	listed				
 http://ftp.blizzard.com/pub/diablo2exp/mp3s/ancients.mp3	listed				
@@ -182,7 +182,7 @@ http://ftp.blizzard.com/pub/misc/kbkmaps.zip	listed
 http://ftp.blizzard.com/pub/misc/korea.reg	unavailable				
 http://ftp.blizzard.com/pub/misc/mouse.zip	listed	28572	c987c9d7ecf9256c740714419f488fea		
 http://ftp.blizzard.com/pub/misc/msclientfaq.zip	listed				
-http://ftp.blizzard.com/pub/misc/scmkey.reg	recovered_official	98	453f1c2aeaee56788dbaadf2f96a1b1b	f529c7c9e6b7ff0960395e9a54d667a215e26489ba4e497d818371b4255c346e	recovered/files/download.blizzard.com/pub/misc/scmkey.reg
+http://ftp.blizzard.com/pub/misc/scmkey.reg	recovered_official	98	453f1c2aeaee56788dbaadf2f96a1b1b	f529c7c9e6b7ff0960395e9a54d667a215e26489ba4e497d818371b4255c346e	tools-pod/pub/misc/scmkey.reg
 http://ftp.blizzard.com/pub/misc/tournament/CPL%20UDS%20GearList.xls	listed				
 http://ftp.blizzard.com/pub/misc/tournament/L60BaronWSVG_GearList.xls	listed				
 http://ftp.blizzard.com/pub/misc/tournament/WSVG%20Schedule.xls	listed				

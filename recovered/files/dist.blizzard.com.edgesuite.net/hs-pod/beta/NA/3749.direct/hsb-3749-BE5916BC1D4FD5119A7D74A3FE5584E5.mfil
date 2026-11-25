@@ -1,0 +1,17 @@
+version=3
+serverpath=base
+	path=
+file=base-OSX.MPQ
+	name=base-OSX.MPQ
+	size=983711687
+	fileversion=3749
+	flags=18
+	path=base
+	tag=OSX
+file=base-Win.MPQ
+	name=base-Win.MPQ
+	size=982850085
+	fileversion=3749
+	flags=18
+	path=base
+	tag=Win

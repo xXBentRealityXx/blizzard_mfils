@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Blizzard Downloader]
+"Disable Peer-to-Peer"=dword:00000001

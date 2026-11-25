@@ -1,0 +1,241 @@
+original_url	status	size_bytes	md5	sha256	repository_path
+http://dist.blizzard.com/WoW-3.3.5.13930-4.1.0.14250-CN/Updates/WoW-3.3.5.13930-4.1.0.14250-CN/WoW-x.x.x.x-4.1.0.14250-Updater.exe	listed				
+http://dist.blizzard.com/bna/CN/a3334/a-3334-C945AA853F3BC3E3B64E55A8EDF8F510.mfil	unavailable				
+http://dist.blizzard.com/bna/CN/a3669/a-3669-FAF69792DA7663930A83B8BC6B4029CA.mfil	unavailable				
+http://dist.blizzard.com/bna/CN/a3733/a-3733-CB58EC40DCCDF1692B3C86A8C9016B02.mfil	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.20813.D3XGM/d3_game_3B20E87B29164E5689E0E6F5B722DCCF.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.20813.D3XGM/d3_game_B80D7033D5E624D638333671F1D22146.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.20813.D3XGM/d3_game_FF97E59BFFBE0742E9A24CCE8136E1FC.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.20813.D3XGM/d3_install_C1F4E19E062B3F9605033C0761DD9E97.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_2E66D7FEED9F15C95B0220872396ADEE.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_3D7E84AC9FC07E1A5B2A78A59B152ED4.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_4E8C97253B8075370779D0A5387E2215.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_542016226477DA2708666322C41CA6E9.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_6EB1163E8B8408DC6D23F95ACE9D426D.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_88ECD359EE16B045F0F7A4EB996E3857.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_9AD47D81CC7C2AD5F3EF5BBFB7B4DB84.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_A1DE3C59208998E8CB08C6F7D591B5AD.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_B18CD1023740B267375B55787BF69D67.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_BD1C387F2E53BD602D8416824F3D06DD.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_game_EBE56D03AAC56F834CCCB7F4EFA0495B.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_058665875E5EE74232707C0E7191384B.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_23C15BBED367A697CF55F94D7F4B441F.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_549FD8FA8A9F4DAC3C087C9755F4AF3A.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_5A213047D96EB96708CE20E0EDAA3EB6.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_9844510E5A6B35AD11CCF2B1CC1E255A.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_D2C65578B19A6AD01AC77CF2DF181825.blob	unavailable				
+http://dist.blizzard.com/d3-pod-retail/Blob.8370.D3GM/d3_install_E31E5F1CE0DE33E73C3E42AA2DF1217F.blob	unavailable				
+http://dist.blizzard.com/d3-pod/20FB5BE9/NA/D3-8610-D06777069202ACA0C804BC5BCC99909F.xml	unavailable				
+http://dist.blizzard.com/d3-pod/20FB5BE9/NA/D3-8815-D06777069202ACA0C804BC5BCC99909F.xml	unavailable				
+http://dist.blizzard.com/d3-pod/20FB5BE9/NA/d3b-7447-A25A9969D948E82419928FBFBACA41A3.xml	unavailable				
+http://dist.blizzard.com/d3-pod/beta/00FC2DE9/NA/18962.direct/d3b-20493-74305805A6878CE06D95546626D8F91F.mfil	already_in_repository	10948	74305805a6878ce06d95546626d8f91f	ce5bd515733f449cd64cc421ef1969e988e829b85eb487577f56368a9e6980f3	d3-pod/beta/00FC2DE9/NA/18962.direct/d3b-20493-74305805A6878CE06D95546626D8F91F.mfil
+http://dist.blizzard.com/downloads/blackthorne/5e1a0ce1d84e3ee3005dd26181e14a2f/Blackthorne-Setup.exe	listed	6429232			
+http://dist.blizzard.com/downloads/blackthorne/5e1a0ce1d84e3ee3005dd26181e14a2f/Blackthorne.dmg	container reference	16440714			
+http://dist.blizzard.com/downloads/blackthorne/5e1a0ce1d84e3ee3005dd26181e14a2f/BlackthorneSetup.dmg	container reference	16440714			
+http://dist.blizzard.com/downloads/blackthorne/5e1a0ce1d84e3ee3005dd26181e14a2f/BlackthorneSetup.exe	listed	6429232			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-deDE.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-deDE.zip	listed	5453006			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-enGB.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-enGB.zip	listed	5453001			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-enUS.exe	listed	5723328			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-enUS.zip	listed	5452997			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-esES.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-esES.zip	listed	5453000			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-esMX.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-esMX.zip	listed	5453004			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-frFR.exe	listed	5723328			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-frFR.zip	listed	5452998			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-itIT.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-itIT.zip	listed	5453003			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-koKR.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-koKR.zip	listed	5452997			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-plPL.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-plPL.zip	listed	5452995			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-ptBR.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-ptBR.zip	listed	5452998			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-ptPT.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-ptPT.zip	listed	5452999			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-ruRU.exe	listed	5723328			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-ruRU.zip	listed	5453003			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-zhCN.zip	listed	5453010			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-zhTW.exe	listed	5723320			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.3/Battle.net-Beta-Setup-zhTW.zip	listed	5452999			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/beta.4/Battle.net-Beta-Setup-enUS.exe	listed	4786120			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-deDE.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-deDE.zip	listed	2191543			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-enGB.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-enGB.zip	listed	2191556			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-enUS.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-enUS.zip	listed	2191550			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-esES.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-esES.zip	listed	2191550			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-esMX.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-esMX.zip	listed	2191552			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-frFR.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-frFR.zip	listed	2191555			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-itIT.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-itIT.zip	listed	2191549			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-koKR.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-koKR.zip	listed	2191549			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-plPL.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-plPL.zip	listed	2191547			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-ptBR.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-ptBR.zip	listed	2191559			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-ptPT.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-ptPT.zip	listed	2191546			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-ruRU.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-ruRU.zip	listed	2191550			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-zhTW.exe	listed	2864184			
+http://dist.blizzard.com/downloads/bna-installers/322d5bb9ae0318de3d4cde7641c96425/retail.1/Battle.net-Setup-zhTW.zip	listed	2191550			
+http://dist.blizzard.com/downloads/classics/9f8ba2a406416a70cfe1bc97ec5346ba/Rock_n_Roll_Racing.zip	listed	16082108			
+http://dist.blizzard.com/downloads/classics/9f8ba2a406416a70cfe1bc97ec5346ba/The_Lost_Vikings.zip	listed	2624175			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-deDE.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-deDE.zip	listed	2249883			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-enGB.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-enGB.zip	listed	2249877			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-enSG.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-enSG.zip	listed	2249886			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-enUS.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-enUS.zip	listed	2249881			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-esES.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-esES.zip	listed	2249884			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-esMX.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-esMX.zip	listed	2249886			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-frFR.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-frFR.zip	listed	2249893			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-itIT.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-itIT.zip	listed	2249879			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-koKR.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-koKR.zip	listed	2249881			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-plPL.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-plPL.zip	listed	2249888			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-ptBR.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-ptBR.zip	listed	2249882			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-ruRU.exe	listed	3071032			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-ruRU.zip	listed	2249878			
+http://dist.blizzard.com/downloads/d3-installers/9ed8c6bce632597fa6646acda77b8025/retail_1/Diablo-III-Setup-zhTW.exe	listed	3071032			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-deDE.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-deDE.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-enGB.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-enGB.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-enUS.exe	listed	5946048			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-enUS.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-esES.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-esES.zip	listed	6242039			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-esMX.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-esMX.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-frFR.exe	listed	5946048			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-frFR.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-itIT.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-itIT.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-koKR.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-koKR.zip	listed	6242030			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-plPL.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-plPL.zip	listed	6242029			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-ptBR.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-ptBR.zip	listed	6242029			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-ptPT.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-ptPT.zip	listed	6242031			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-ruRU.exe	listed	5946048			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-ruRU.zip	listed	6242030			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-zhTW.exe	listed	5946040			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/beta.1/Hearthstone-Beta-Setup-zhTW.zip	listed	6242030			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-deDE.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-deDE.zip	listed	2489283			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-enGB.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-enGB.zip	listed	2489289			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-enUS.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-enUS.zip	listed	2489291			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-esES.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-esES.zip	listed	2489287			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-esMX.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-esMX.zip	listed	2489288			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-frFR.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-frFR.zip	listed	2489292			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-itIT.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-itIT.zip	listed	2489286			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-koKR.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-koKR.zip	listed	2489289			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-plPL.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-plPL.zip	listed	2489297			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-ptBR.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-ptBR.zip	listed	2489293			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-ptPT.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-ptPT.zip	listed	2489297			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-ruRU.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-ruRU.zip	listed	2489299			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-zhCN.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-zhTW.exe	listed	3056696			
+http://dist.blizzard.com/downloads/hs-installers/a6029a1d625c79252defff3914fb6e67/retail.1/Hearthstone-Setup-zhTW.zip	listed	2489290			
+http://dist.blizzard.com/downloads/sc2-beta-installers/build1-96937bdf/StarCraft-II-Beta-Setup-enUS.exe	over GitHub file limit	125844720			
+http://dist.blizzard.com/downloads/sc2-beta-installers/build1-96937bdf/StarCraft-II-Beta-Setup-koKR.exe	over GitHub file limit	125844720			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-deDE.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-deDE.zip	listed	2077201			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-enGB.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-enGB.zip	listed	2077203			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-enSG.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-enSG.zip	listed	2077215			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-enUS.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-enUS.zip	listed	2077207			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-esES.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-esES.zip	listed	2077202			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-esMX.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-esMX.zip	listed	2077205			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-frFR.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-frFR.zip	listed	2077209			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-itIT.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-itIT.zip	listed	2077201			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-koKR.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-koKR.zip	listed	2077203			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-plPL.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-plPL.zip	listed	2077203			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-ptBR.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-ptBR.zip	listed	2077214			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-ruRU.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-ruRU.zip	listed	2077204			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-zhTW.exe	listed	3183672			
+http://dist.blizzard.com/downloads/sc2-installers/full/StarCraft-II-Setup-zhTW.zip	listed	2077216			
+http://dist.blizzard.com/downloads/storm-installers/7C96DEC684D71DCDD4809F35F5D1E2BE/storm.1/Heroes-of-the-Storm-Setup-enUS.exe	listed	3080760			
+http://dist.blizzard.com/downloads/storm-installers/7C96DEC684D71DCDD4809F35F5D1E2BE/storm.1/Heroes-of-the-Storm-Setup-enUS.zip	listed	3177873			
+http://dist.blizzard.com/downloads/storm-installers/7C96DEC684D71DCDD4809F35F5D1E2BE/storm.1/Heroes-of-the-Storm-Setup-koKR.exe	listed	3080760			
+http://dist.blizzard.com/downloads/wow-installers/57dc9796ddd0fd433331af7cc6da0919/beta/World-of-Warcraft-Beta-Setup-enGB.exe	listed	2908728			
+http://dist.blizzard.com/downloads/wow-installers/57dc9796ddd0fd433331af7cc6da0919/beta/World-of-Warcraft-Beta-Setup-enUS.exe	listed	2908728			
+http://dist.blizzard.com/downloads/wow-installers/57dc9796ddd0fd433331af7cc6da0919/beta/World-of-Warcraft-Beta-Setup-frFR.exe	listed	2908728			
+http://dist.blizzard.com/downloads/wow-installers/8eb0c6a7195aca044d64592adb04a737/ptr/World-of-Warcraft-Public-Test-Setup-enUS.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/8eb0c6a7195aca044d64592adb04a737/ptr/World-of-Warcraft-Public-Test-Setup-ruRU.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-deDE.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-deDE.zip	listed	2072254			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-enGB.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-enGB.zip	listed	2072250			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-enUS.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-enUS.zip	listed	2072255			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-esES.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-esES.zip	listed	2072254			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-esMX.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-esMX.zip	listed	2072258			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-frFR.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-frFR.zip	listed	2072254			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-itIT.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-itIT.zip	listed	2072250			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-koKR.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-koKR.zip	listed	2072251			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-ptBR.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-ptBR.zip	listed	2072252			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-ruRU.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-ruRU.zip	listed	2072254			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-zhTW.exe	listed	2907704			
+http://dist.blizzard.com/downloads/wow-installers/full/World-of-Warcraft-Setup-zhTW.zip	listed	2072259			
+http://dist.blizzard.com/mediakey/d3-authenticationcode-deDE.txt	recovered_official	32	e0d1e7b510084c50d89a2e70b8a200cf	24c5748ef636874247eea4163bfd368575f4d4f574e28c1abc605c643f15b375	recovered/files/dist.blizzard.com/mediakey/d3-authenticationcode-deDE.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-enGB.txt	recovered_official	32	ccdaa57429af27bd66ba746c67f01ada	8eb290315967938026eabcf5c08b547dadd6fd5753d0c626797f4c706874691b	recovered/files/dist.blizzard.com.edgesuite.net/mediakey/d3-authenticationcode-enGB.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-enUS.txt	recovered_official	32	7836a9d4278531d63190b10e9d9eb221	30d584df32075769886fb2b5f885edc1aa5e68b4d9131c3d2b8c35ed2accfe64	recovered/files/dist.blizzard.com.edgesuite.net/mediakey/d3-authenticationcode-enUS.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-koKR.txt	recovered_official	32	b4bafd547ef314631e0f1144a6a44e1e	bc9989370c968f90abd35e21e0aa2ca7872069500e8dfad12c5180f8dece6788	recovered/files/dist.blizzard.com/mediakey/d3-authenticationcode-koKR.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-ruRU.txt	recovered_official	32	8bf9031940eab8e45600c93638f1afd8	f2ff02e159783efaa27058ca7d754ec06c5c2a3e499b61f585ce89aafca5ff93	recovered/files/dist.blizzard.com.edgesuite.net/mediakey/d3-authenticationcode-ruRU.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-trTR.txt	recovered_official	97	0e52ce0ffec8f3bdd8ac8d211287c815	06813a3fdb330eac5ecf76828fac897baad23b4f3f6a32ca2ba13df13018278d	recovered/files/dist.blizzard.com/mediakey/d3-authenticationcode-trTR.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-zhCN.txt	recovered_official	64	798d0ac101a55ad689db704abb6662e4	ad84869e8cf01e677872c87787af4967393f745860e9c9742af87e359ffdb333	recovered/files/dist.blizzard.com/mediakey/d3-authenticationcode-zhCN.txt
+http://dist.blizzard.com/mediakey/d3-authenticationcode-zhTW.txt	recovered_official	32	d78e8e7fd32e5be01a5a5401cb58c937	fadb32bedb3fba8c14f9c9fc9c352c3a409260410a6e8d77a32e68e456a64ccc	recovered/files/dist.blizzard.com/mediakey/d3-authenticationcode-zhTW.txt
+http://dist.blizzard.com/mediakey/hots-authenticationcode-bgdl.txt	recovered_official	32	f93c32a4328629f076ac650682339990	a4b45e91dfe4183ade2c2bd76a3fff7ed45e98c49598141c00491fee59aa7d90	recovered/files/dist.blizzard.com/mediakey/hots-authenticationcode-bgdl.txt
+http://dist.blizzard.com/mediakey/sc2-authenticationcode-enGB.txt	recovered_official	32	d7fdc7c156829cdb1772976628183ba4	0f809e847de63bd369104141fc81b2b3d5e12ce1e006e9b3dfa65363cb4aca97	recovered/files/dist.blizzard.com.edgesuite.net/mediakey/sc2-authenticationcode-enGB.txt
+http://dist.blizzard.com/mediakey/sc2-authenticationcode-zhTW.txt	recovered_official	32	8a56b0a0e1fec05f798097a6c1f39476	dff98292ca581eb057cb1f9c598b674e8a0534971869a29853c9e8c6f6ddd674	recovered/files/dist.blizzard.com/mediakey/sc2-authenticationcode-zhTW.txt
+http://dist.blizzard.com/pub/WoW/other/Repair-3.0.0.98.zip	listed				
+http://dist.blizzard.com/pub/WoW/other/Repair-3.0.1.zip	listed				
+http://dist.blizzard.com/pub/WoW/other/Repair_3.0.1.zip	listed				

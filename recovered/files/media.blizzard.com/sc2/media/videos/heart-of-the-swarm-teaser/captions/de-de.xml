@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="de" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <body>
+    <div xml:lang="de">
+        <p begin="00:00:08">Beginnt die Suche!</p>
+        <p begin="00:00:09">Findet Kerrigan!</p>
+	<p begin="00:00:11"></p>	
+        <p begin="00:00:18">Sarah!</p>
+	<p begin="00:00:19"></p>
+        <p begin="00:00:27">Sarah?</p>
+	<p begin="00:00:29"></p>
+    </div>
+  </body>
+</tt>

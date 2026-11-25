@@ -1,0 +1,5 @@
+REGEDIT4
+
+
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III\Sound\]
+"provider"=dword:00000001

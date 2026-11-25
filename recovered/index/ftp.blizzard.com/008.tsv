@@ -1,0 +1,241 @@
+original_url	status	size_bytes	md5	sha256	repository_path
+http://ftp.blizzard.com/pub/starcraftII/patches/pc/SC2-1.2.0-zhTW-patch.exe	listed				
+http://ftp.blizzard.com/pub/unsupped/README.txt	recovered_official	57	9b0a05a320e59f668eefb78484fb0604	781418bba068c58134166f83648cea88be50283eecbc71b5d87f3837617e102b	recovered/files/download.blizzard.com/pub/unsupped/README.txt
+http://ftp.blizzard.com/pub/unsupped/greetbot.zip	listed				
+http://ftp.blizzard.com/pub/unsupped/kpuds.zip	listed				
+http://ftp.blizzard.com/pub/unsupped/topazchat-621.zip	listed				
+http://ftp.blizzard.com/pub/war1/patches/Mac/macwar.hqx	listed	588649	5e26c9e8cb452c526b25d729ee657b6b	55ade63e83a2a9824a92940e30480918c47e3531866c9775717a93825b2f6f88	
+http://ftp.blizzard.com/pub/war1/patches/PC/warcr121.exe	listed	632717	d2a188789e8482877156d821715a8431		
+http://ftp.blizzard.com/pub/war1/patches/index.txt	unavailable				
+http://ftp.blizzard.com/pub/war1/patches/mac/macwar.hqx	listed	588649	5e26c9e8cb452c526b25d729ee657b6b		
+http://ftp.blizzard.com/pub/war1/patches/macwar.hqx	listed	588649	5e26c9e8cb452c526b25d729ee657b6b		
+http://ftp.blizzard.com/pub/war1/patches/pc/warcr121.exe	listed	632717	d2a188789e8482877156d821715a8431		
+http://ftp.blizzard.com/pub/war1/patches/warcr121.exe	listed	632717	d2a188789e8482877156d821715a8431		
+http://ftp.blizzard.com/pub/war2/MapPictures/allwar2.zip	listed				
+http://ftp.blizzard.com/pub/war2/MapPictures/bne.zip	listed				
+http://ftp.blizzard.com/pub/war2/MapPictures/classic24.zip	listed				
+http://ftp.blizzard.com/pub/war2/MapPictures/classic58.zip	listed				
+http://ftp.blizzard.com/pub/war2/MapPictures/exp.zip	listed				
+http://ftp.blizzard.com/pub/war2/MapPictures/ladder.zip	listed				
+http://ftp.blizzard.com/pub/war2/Maps/0001/cliffhanger.zip	listed	121858	4f61b27458ef50a8a2dc66588bc30f0e	2f4d99854a93c8a40a72e50a8f477ff0eb4b351409b1e9b47a67c8e568f3d6ac	
+http://ftp.blizzard.com/pub/war2/Maps/9910/beetle.zip	listed	122198	c3be9845e0e847133f95740f46a6ef24	13ce2903c5016b9bd531a28ed442e6f186819178821d81956fe2e076086ec75d	
+http://ftp.blizzard.com/pub/war2/Maps/9911/mountainpass.zip	listed	121872	419cdb6d5cffd6f4cc830a4a65e7a3d4	8c86684829162ea1fcb0a896e8d76bbef751993f4024e9357c4bc5a138532c80	
+http://ftp.blizzard.com/pub/war2/SOUNDS/DiscoWC.zip	listed				
+http://ftp.blizzard.com/pub/war2/maps/0001/cliffhanger.zip	listed	121858	4f61b27458ef50a8a2dc66588bc30f0e		
+http://ftp.blizzard.com/pub/war2/maps/9910/beetle.zip	listed	122198	c3be9845e0e847133f95740f46a6ef24		
+http://ftp.blizzard.com/pub/war2/maps/9911/mountainpass.zip	listed	121872	419cdb6d5cffd6f4cc830a4a65e7a3d4		
+http://ftp.blizzard.com/pub/war2/patches/MWar2_Editor.sit.hqx	listed	1851067	d4bf1bc9200ced7231c49b97bb2cac5f		
+http://ftp.blizzard.com/pub/war2/patches/Mac/MWar2_Editor.sit.hqx	listed	1851067	d4bf1bc9200ced7231c49b97bb2cac5f	700098655bece07a2d17b56af9aab12fe9bfcdd0914897eacf4f80520ea086ed	
+http://ftp.blizzard.com/pub/war2/patches/Mac/MacWar2_14.sit.hqx	listed	774972	c3e72434364d2c0503ac6638996fe767	9050fe994c001d9c53fb25e9efc565b069e6ccc4a1a67fea529dcb38e9677108	
+http://ftp.blizzard.com/pub/war2/patches/Mac/MacWar2_15.sit.hqx	listed	499643	b1dc1069bcdfc1668299fe1eb5e9ec7d	97756533c5ebbd8eb09a32702fba4b925d3bae12fe206c29060ea6615b0efcb4	
+http://ftp.blizzard.com/pub/war2/patches/Mac/PowerPC_Interrupt_Extension.hqx	listed	5961	d360ff4ba76187084e4ec9e20a62a22e	b864ff2512c672d3f2ebb33cfa635d96815076d9d992a3379f9f4859dde3afaa	
+http://ftp.blizzard.com/pub/war2/patches/Mac/War2BNE%20v2.02b-Mac.hqx	listed				
+http://ftp.blizzard.com/pub/war2/patches/Mac/war2_123_update.sit.hqx	listed				
+http://ftp.blizzard.com/pub/war2/patches/MacWar2_14.sit.hqx	listed	774972	c3e72434364d2c0503ac6638996fe767		
+http://ftp.blizzard.com/pub/war2/patches/MacWar2_15.sit.hqx	listed	499643	b1dc1069bcdfc1668299fe1eb5e9ec7d		
+http://ftp.blizzard.com/pub/war2/patches/PC/W2FRPTCH.EXE	listed	147130	20d342afdc4f40bf342682ae8bd9cf60		
+http://ftp.blizzard.com/pub/war2/patches/PC/W2GRPTCH.EXE	listed	448847	9b6a3194c4e833417a145a51ef61361e		
+http://ftp.blizzard.com/pub/war2/patches/PC/W2XPTCH.EXE	listed	747397	4f434e0d633dbfcb2225ab2de50a74f5		
+http://ftp.blizzard.com/pub/war2/patches/PC/WAR2_140.EXE	listed	1267225	72ec900424158e8496d5d1e5b6e34467		
+http://ftp.blizzard.com/pub/war2/patches/PC/War2Patch_202.exe	listed	1031826	1d29f0793e45457548ba35b6b7692dd1		
+http://ftp.blizzard.com/pub/war2/patches/PC/inst2.exe	listed	53248	a0b072b8bb03a57e704976fa59dcb0ab	5ff37e4648dd91bc221ac06b1d1ae7e89aa8d4bb4b02852956fdb622a410524d	
+http://ftp.blizzard.com/pub/war2/patches/PC/setsound.zip	listed				
+http://ftp.blizzard.com/pub/war2/patches/PC/w2win95.ZIP	listed	465838	cfa4533844578a2479390f28440de766		
+http://ftp.blizzard.com/pub/war2/patches/PC/w2xptch.exe	listed				
+http://ftp.blizzard.com/pub/war2/patches/PC/w2xwin95.ZIP	listed	476227	44aac55c6f79fdd6a62291b1bf05ef39		
+http://ftp.blizzard.com/pub/war2/patches/PC/war2_140.exe	listed				
+http://ftp.blizzard.com/pub/war2/patches/PowerPC_Interrupt_Extension.hqx	listed				
+http://ftp.blizzard.com/pub/war2/patches/W2FRPTCH.EXE	listed	147130	20d342afdc4f40bf342682ae8bd9cf60		
+http://ftp.blizzard.com/pub/war2/patches/W2GRPTCH.EXE	listed	448847	9b6a3194c4e833417a145a51ef61361e		
+http://ftp.blizzard.com/pub/war2/patches/War2Patch_202.exe	listed	1031826	1d29f0793e45457548ba35b6b7692dd1		
+http://ftp.blizzard.com/pub/war2/patches/index.txt	unavailable				
+http://ftp.blizzard.com/pub/war2/patches/inst2.exe	listed	53248	a0b072b8bb03a57e704976fa59dcb0ab		
+http://ftp.blizzard.com/pub/war2/patches/mac/MWar2_Editor.sit.hqx	listed	1851067	d4bf1bc9200ced7231c49b97bb2cac5f		
+http://ftp.blizzard.com/pub/war2/patches/mac/MacWar2_14.sit.hqx	listed	774972	c3e72434364d2c0503ac6638996fe767		
+http://ftp.blizzard.com/pub/war2/patches/mac/MacWar2_15.sit.hqx	listed	499643	b1dc1069bcdfc1668299fe1eb5e9ec7d		
+http://ftp.blizzard.com/pub/war2/patches/pc/W2XPTCH.EXE	listed				
+http://ftp.blizzard.com/pub/war2/patches/pc/WAR2_140.EXE	listed				
+http://ftp.blizzard.com/pub/war2/patches/pc/w2xptch.exe	listed	747397	4f434e0d633dbfcb2225ab2de50a74f5		
+http://ftp.blizzard.com/pub/war2/patches/pc/war2_140.exe	listed				
+http://ftp.blizzard.com/pub/war2/patches/w2win95.ZIP	listed	465838	cfa4533844578a2479390f28440de766		
+http://ftp.blizzard.com/pub/war2/patches/w2xptch.exe	listed	747397	4f434e0d633dbfcb2225ab2de50a74f5		
+http://ftp.blizzard.com/pub/war2/patches/w2xwin95.ZIP	listed	476227	44aac55c6f79fdd6a62291b1bf05ef39		
+http://ftp.blizzard.com/pub/war2/patches/war2_140.exe	listed				
+http://ftp.blizzard.com/pub/war2/puds/2ISLANDS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/3TIMES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/4ON4.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/4TRI.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/AEMO.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ALAMO2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ALIVE.PUD	listed	16774	bd5a98e8d72851bb5ab9726df5fa6863		
+http://ftp.blizzard.com/pub/war2/puds/ALL-WAR.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ALLIANCE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/APCALYPS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/AWSOME.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/AXER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/AZRAEL-2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BALLS2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BATTLE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BAT_BAY.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BIG.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BIGCENTR.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BLUDLUST.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BOB.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BOND.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BOSQUET.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BRAIN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BTTLFLD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/BYZANTIN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CAMLANN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CASTLES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CDOOM.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CENTER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CHECKER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CHOPCHOP.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CORNERS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CROSFIRE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CROSSI.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CROSSRIV.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/CRUCIBLE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DARKSEA.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DARKSEA2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DARROW.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DAVE2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DEATHG1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DEATHG2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DESCENT.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DIABLO.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DIESMUCK.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DIE_ONE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DISC.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DIVIDED.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DRAUGHTS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/DWARVES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ELVENF1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ELVES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/EUROPE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/FATE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/FINDKEEP.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/FORENEME.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/FORESTQU.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/FORTRESS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/GAUNTLET.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/GOLD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/GOLDRUSH.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/GOODLUK.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/GOW2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/HASTING.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/HELL.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/HUH.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/HUNTER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICEBRDGE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICEEASY.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICEFLOW.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICEHEART.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICELANDS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICEMAZE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ICEOCEAN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/IMAGES2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/IMPERI1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ISENGARD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ISLAND.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ISLANDS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/JETTI.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/KDY2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/KEV.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/KOOL.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LAKE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LAKELAND.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LANDRDGE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LAND_SEA.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LEGENDS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LONGBOWS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/LOSTWOOD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MADMAN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MAGE1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MAGE2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MIKEYS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MINECENT.PUD	listed	35598			
+http://ftp.blizzard.com/pub/war2/puds/MISSIPI.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MUTTON.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/MYGARDEN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/NAFERS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/NICK.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/NICK1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/NIGHTMAR.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/NORTH.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/NOTREES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ONEONONE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ORCATACK.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ORCFATE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ORCRIVER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PASSE2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PATH.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PEASANTS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PEASENTS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PHUNKY.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PILLAGE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PONDS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/POWERSTR.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/PRELUDE1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/RANDHP.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/REVENGE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/REVENGE1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/REVENGE2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/REVENGE3.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/REVENGE4.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/RING.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/RIVATTAC.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/RIVRBATL.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ROCKIES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/RUNE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SANDBAR.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SANDD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SANTA.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SEA.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SEAWORLD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SHADOW.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SHOWDOWN.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SIEGE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SILVER1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SLAY_2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/STOMGRD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/STONE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/STRNGHLD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SUPCHOKE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/SWAMPS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TERROR.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/THEFOU1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/THEPASS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/THE_PASS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TIDES.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TIME.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TOGETHER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TROOPS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TUFBUCS.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/TUFF.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/U4DINNER.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/UNDEAD.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/VOLCANOE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WAT.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WATERS2.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WATERW1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WATRLABY.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WHITE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WINMAZE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WINTPORT.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/WW1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/XBATTL1.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/ZONE.PUD	listed				
+http://ftp.blizzard.com/pub/war2/puds/channel.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/ctf.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/death.pud	listed	37086			
+http://ftp.blizzard.com/pub/war2/puds/divide.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/dualrace.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/impossib.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/kabuchee.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/oneruler.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/opco.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/readme.txt	recovered_official	375	2b5450e048813a8c4f8afdf5208a0a5f	cb1f274412b7fff9fb4eb5f6c9f249bf8e2be94485e68b5ad964f695476b99ce	recovered/files/download.blizzard.com/pub/war2/puds/readme.txt
+http://ftp.blizzard.com/pub/war2/puds/stonewll.pud	listed				
+http://ftp.blizzard.com/pub/war2/puds/test.pud	listed				

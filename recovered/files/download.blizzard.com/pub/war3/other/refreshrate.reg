@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III\Video]
+"refreshrate"=dword:0000003c
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III\Video]
+"cinematicrefresh"=dword:0000003c

@@ -1,0 +1,36 @@
+REGEDIT4
+
+;Use these to determine the value for cinamtic
+;Add together the values of everything that's going to be
+;overridden in the registry.
+;For instance, to force a 60Hz refresh rate and 32 bpp,
+;use CINEMATIC_REFRESH | CINEMATIC_BPP, which equals 0x00000003
+
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III\Video]
+; This is the hex value for the refresh rate.
+; 60Hz is 3c, 72Hz is 48, 75 is 4B, 85 is 55
+; "cinematicrefresh"=dword:0000003c
+
+;This is the hex value for bits per pixel
+;Valid values include 16 (hex 10), 24 (hex 18), and 32 (hex 20)
+;Use 24 with caution -- probably only on Intel i810
+; "cinematicbpp"=dword:00000020
+
+;These are the hex values for movie width and height
+;800x600 and 640x480 are tested values; if you use anything else YMMV
+;The following is for 800(Hex320), 600(Hex258), 640(280), 480(1E0)
+; "cinematicheight"=dword:00000258
+; "cinematicwidth"=dword:00000320
+
+
+; This key has the override flags. See the discussion at the top of the file
+; "cinematicoverrides"=dword:0000000f
+
+
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III\Video]
+"cinematicoverrides"=dword:0000000f
+"cinematicwidth"=dword:00000320
+"cinematicheight"=dword:00000258
+"cinematicbpp"=dword:00000010
+"cinematicrefresh"=dword:0000003c
+

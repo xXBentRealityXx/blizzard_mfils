@@ -17,3 +17,7 @@ TODO: add description how to use mirrors
 - http://client02.pdl.wow.battlenet.com.cn/
 - http://client03.pdl.wow.battlenet.com.cn/
 - http://client04.pdl.wow.battlenet.com.cn/
+
+## Recovered official files
+
+See the [recovered CDN files and source index](recovered/README.md) for additional manifests, repair files and official source URLs.

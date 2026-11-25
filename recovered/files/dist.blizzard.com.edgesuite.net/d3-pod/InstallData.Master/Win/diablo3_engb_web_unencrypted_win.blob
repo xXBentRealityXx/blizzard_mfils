@@ -1,0 +1,43 @@
+{
+"config":{
+	"product": "D3",
+		"install_progress_percent": 10.0,
+		"install_progress_info": [60000000.0, 0.0, 0.0],
+		"download_progress_info": [3000000000.0, 5000000000.0, 6000000000.0],
+		"install_progress_speed": 1000000.0,
+		"tome_download_progress_percent": 0.0,
+		"updater_product": "d3_patch",
+		"expansion_level": 0,
+		"ptr": false,
+		"beta": false,
+		"update_method": "patch on demand",
+		"supports_multibox": false,
+		"data_dir": "Data_D3/PC/MPQs/",
+		"patch_url": "http://enGB.patch.battle.net:1119/patch",
+		"update_regex": "(?P<prefix>d3-update-(?P<dataset>\\w+))-(?P<build>\\d+)\\.mpq$",
+		"update_identifier": "d3-update-",
+		"torrent_file_path": "Diablo III.tfil",
+		"manifest_file_path": "Diablo III.mfil",
+		"priority_file_path": "Diablo III.pfil",
+		"priority_file_layout": "Retail",
+		"binary_version_path": "Diablo III.exe",
+		"binary_launch_path": "Diablo III.exe",
+		"display_locales":["enGB","esMX","ptBR","koKR","zhTW","deDE","esES","frFR","itIT","plPL","ruRU"],
+		"supported_locales" : ["enUS", "esMX", "ptBR", "enGB", "deDE", "esES", "frFR", "itIT", "plPL", "enSG", "ptPT", "ruRU", "koKR", "zhTW", "zhCN"],
+		"launch_arguments":["-launch","-uid","diablo3_engb"],
+		"form": {
+			"eula":	{
+				"eula":false
+			},
+			"game_dir": {		
+				"default": "Program Files",
+				"dirname": "Diablo III",
+				"required_space": 15032385536
+			},			
+			"language":	{
+				"default":["enGB"],
+				"list":["enGB"]
+			}
+		}
+	}
+}

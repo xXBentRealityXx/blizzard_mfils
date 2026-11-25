@@ -1,0 +1,7 @@
+Diablo 2: Lord of Destruction - German Act 5 Language Fix
+
+INSTALLATION STEPS
+1. Download the d2xtalk.mpq file to your computer.
+2. Place the d2xtalk.mpq file in your Diablo II: Lord of Destruction install directory.
+3. When prompted, choose to replace the existing d2xtalk.mpq file.
+4. Restart Diablo II: Lord of Destruction.

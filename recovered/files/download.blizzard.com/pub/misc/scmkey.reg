@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\.scm]
+@="StarEdit.Scenario"
+"Content Type"=""

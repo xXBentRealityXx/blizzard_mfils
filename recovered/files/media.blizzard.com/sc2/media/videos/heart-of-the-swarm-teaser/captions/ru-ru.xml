@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="ru" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <body>
+    <div xml:lang="ru">
+        <p begin="00:00:08">Обыскать все!</p>
+        <p begin="00:00:09">Найти Керриган!</p>
+	<p begin="00:00:11"></p>	
+        <p begin="00:00:18">Сара!</p>
+	<p begin="00:00:19"></p>
+        <p begin="00:00:27">Сара?..</p>
+	<p begin="00:00:29"></p>
+    </div>
+  </body>
+</tt>

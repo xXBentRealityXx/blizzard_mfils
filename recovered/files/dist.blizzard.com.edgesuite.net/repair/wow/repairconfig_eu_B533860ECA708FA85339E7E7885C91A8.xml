@@ -1,0 +1,82 @@
+<config>
+	<repairconfig type="WoW">
+		<servers>
+			<server host="attdist.blizzard.com" id="att" path="repair" port="80" priority="0" weight="1"/>
+			<server host="blizzard.vo.llnwd.net" id="limelight" path="o16/content/repair" port="80" priority="0" weight="1"/>
+		</servers>
+		<versions>
+			<version catalog="37ECE7267941648DFA3785D9428E1D06" gameversion="4.0.0.12635" subpath="wow_beta"/>
+			<version catalog="9F5E8A2386D813EB00169919DD015155" gameversion="4.0.0.12694" subpath="wow_beta"/>
+			<version catalog="FDB59AFC2E262FEFDBB1EE1ADF42A884" gameversion="4.0.0.12759" subpath="wow_beta"/>
+			<version catalog="C54C8AA9ACE9E60876D860E73D2727C5" gameversion="4.0.0.12911" subpath="wow"/>
+			<version catalog="9CC392CD9E65F6BE0A45B78EABDB8677" gameversion="4.0.1.12803" subpath="wow_beta"/>
+			<version catalog="6225D76105F092D5155636F20B85CB26" gameversion="4.0.1.12857" subpath="wow_beta"/>
+			<version catalog="B6684A9F067CABE344B9F6A41C0FC4FD" gameversion="4.0.1.12942" subpath="wow_beta"/>
+			<version catalog="D8CB720C18720C884703D55683053734" gameversion="4.0.1.12984" subpath="wow_beta"/>
+			<version catalog="E4EC3341AD6EC8587AFF94B19DA6F88A" gameversion="4.0.1.13066" subpath="wow_beta"/>
+			<version catalog="7E07BBCC8BBD089928DA9C989B4660C7" gameversion="4.0.1.13164" subpath="wow"/>
+			<version catalog="2914B6C3B2A0FD08C4A81AF1752E9C32" gameversion="4.0.1.13205" subpath="wow"/>
+			<version catalog="728BEA4B212C97DD870DFFA607B9620C" gameversion="4.0.3.13117" subpath="wow_beta"/>
+			<version catalog="23EF61C7590E966C6E34CE474FA5D433" gameversion="4.0.3.13189" subpath="wow_beta"/>
+			<version catalog="9E27883AFF3BD262C913FB273CA67F87" gameversion="4.0.3.13195" subpath="wow_beta"/>
+			<version catalog="11AF29FAAFE5FDC4D1A870F7609B1C05" gameversion="4.0.3.13202" subpath="wow_beta"/>
+			<version catalog="7A4BD8251AF6700F87ED81D73C9649CB" gameversion="4.0.3.13221" subpath="wow_beta"/>
+			<version catalog="D91A8BF5F694BF96549F2EA9FB42F569" gameversion="4.0.3.13241" subpath="wow_beta"/>
+			<version catalog="451B19D0E957E5E3035061033BDBB5CD" gameversion="4.0.3.13277" subpath="wow_beta"/>
+			<version catalog="967F61BCF3AC046301DDF4192F2D97FB" gameversion="4.0.3.13287" subpath="wow"/>
+			<version catalog="514B97F0F27F1F2267F41CBEC858D64E" gameversion="4.0.3.13316" subpath="wow_beta"/>
+			<version catalog="C7A63B7075467DCBBD81EBBDBB615B13" gameversion="4.0.3.13329" subpath="wow"/>
+			<version catalog="75C56CBFD8B50C326FCEF9D01E88A76B" gameversion="4.0.6.13596" subpath="wow"/>
+			<version catalog="8474E2C9D33DD8BC982BE2F711511904" gameversion="4.0.6.13623" subpath="wow"/>
+			<version catalog="10926224BC4E603B5439D3FD00CC8E1A" gameversion="4.1.0.13914" subpath="wow"/>
+			<version catalog="EF0F54ACC2EE119EE05D2028F8A0BAC1" gameversion="4.1.0.14007" subpath="wow"/>
+			<version catalog="6677C50B11FBDD1AF32E9C11C3E23713" gameversion="4.2.0.14333" subpath="wow"/>
+			<version catalog="F3A98B5EF91A8F6C4FF45FAE8685F7FE" gameversion="4.2.0.14476" subpath="wow"/>
+			<version catalog="ECE8E1A39ED8DDE6C994C1FC9E3AE959" gameversion="4.2.0.14480" subpath="wow"/>
+			<version catalog="52A369A0D64630701275415D7BB1E7DA" gameversion="4.2.2.14534" subpath="wow_beta"/>
+			<version catalog="26DA2D4B76CA62F2A62D0AA4DE08CB9C" gameversion="4.2.2.14545" subpath="wow"/>
+			<version catalog="9EBC468B92359B55A59BFECC35BA3B26" gameversion="4.2.2.14769" subpath="wow"/>
+			<version catalog="AB800EFA2BACE46FB7475229EF42A143" gameversion="4.3.0.15005" subpath="wow"/>
+			<version catalog="5C474E391845E435C98685BD04E0E898" gameversion="4.3.0.15050" subpath="wow"/>
+			<version catalog="F1EA455EB88E474BA2D8A38C2FFA187E" gameversion="4.3.0.15079" subpath="wow"/>
+			<version catalog="5760F958913284F01C79E3BC4F0735E1" gameversion="4.3.2.15211" subpath="wow"/>
+			<version catalog="812FBEE7EB537CDB2E055F717E75FFFD" gameversion="4.3.3.15314" subpath="wow"/>
+			<version catalog="222E3BEED0F3B074342CBDD09F9F8C63" gameversion="4.3.3.15354" subpath="wow"/>
+			<version catalog="A4227287E64ED955475FD0793D9B2831" gameversion="4.3.4.15595" subpath="wow"/>
+		</versions>
+	</repairconfig>
+	<repairconfig type="WoWB">
+		<servers>
+			<server host="attdist.blizzard.com" id="att" path="repair" port="80" priority="0" weight="1"/>
+			<server host="blizzard.vo.llnwd.net" id="limelight" path="o16/content/repair" port="80" priority="0" weight="1"/>
+		</servers>
+		<versions>
+			<version catalog="37ECE7267941648DFA3785D9428E1D06" gameversion="4.0.0.12635" subpath="wow_beta"/>
+			<version catalog="9F5E8A2386D813EB00169919DD015155" gameversion="4.0.0.12694" subpath="wow_beta"/>
+			<version catalog="FDB59AFC2E262FEFDBB1EE1ADF42A884" gameversion="4.0.0.12759" subpath="wow_beta"/>
+			<version catalog="9CC392CD9E65F6BE0A45B78EABDB8677" gameversion="4.0.1.12803" subpath="wow_beta"/>
+			<version catalog="6225D76105F092D5155636F20B85CB26" gameversion="4.0.1.12857" subpath="wow_beta"/>
+			<version catalog="B6684A9F067CABE344B9F6A41C0FC4FD" gameversion="4.0.1.12942" subpath="wow_beta"/>
+			<version catalog="D8CB720C18720C884703D55683053734" gameversion="4.0.1.12984" subpath="wow_beta"/>
+			<version catalog="E4EC3341AD6EC8587AFF94B19DA6F88A" gameversion="4.0.1.13066" subpath="wow_beta"/>
+			<version catalog="728BEA4B212C97DD870DFFA607B9620C" gameversion="4.0.3.13117" subpath="wow_beta"/>
+			<version catalog="23EF61C7590E966C6E34CE474FA5D433" gameversion="4.0.3.13189" subpath="wow_beta"/>
+			<version catalog="9E27883AFF3BD262C913FB273CA67F87" gameversion="4.0.3.13195" subpath="wow_beta"/>
+			<version catalog="11AF29FAAFE5FDC4D1A870F7609B1C05" gameversion="4.0.3.13202" subpath="wow_beta"/>
+			<version catalog="7A4BD8251AF6700F87ED81D73C9649CB" gameversion="4.0.3.13221" subpath="wow_beta"/>
+			<version catalog="D91A8BF5F694BF96549F2EA9FB42F569" gameversion="4.0.3.13241" subpath="wow_beta"/>
+			<version catalog="451B19D0E957E5E3035061033BDBB5CD" gameversion="4.0.3.13277" subpath="wow_beta"/>
+			<version catalog="514B97F0F27F1F2267F41CBEC858D64E" gameversion="4.0.3.13316" subpath="wow_beta"/>
+			<version catalog="52A369A0D64630701275415D7BB1E7DA" gameversion="4.2.2.14534" subpath="wow_beta"/>
+		</versions>
+	</repairconfig>
+	<repairconfig type="WoWT">
+		<servers>
+			<server host="attdist.blizzard.com" id="att" path="repair" port="80" priority="0" weight="1"/>
+			<server host="blizzard.vo.llnwd.net" id="limelight" path="o16/content/repair" port="80" priority="0" weight="1"/>
+		</servers>
+		<versions>
+			<version catalog="00000000000000000000000000000000" gameversion="4.0.1.12803" subpath="wow_ptr"/>
+		</versions>
+	</repairconfig>
+</config>

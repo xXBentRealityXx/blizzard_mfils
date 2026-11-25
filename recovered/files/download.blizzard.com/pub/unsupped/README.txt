@@ -1,0 +1,1 @@
+These files are not supported by Blizzard Entertainment. 
